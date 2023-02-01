@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#174491</color>
+    <color name="colorPrimaryDark">#0d469f</color>
+    <color name="color_blue">#0b8de0</color>
+    <color name="textcolor_blue2">#1289df</color>
+    <color name="colorAccent">#EFBB01</color>
+    <color name="colorGreen">#008000</color>
+    <color name="grey">#A39F9F</color>
+    <color name="darkgrey">#909090</color>
+    <color name="black">#FF000000</color>
+    <color name="cb_dark_grey">#464646</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="statusBarColor">#0296c3</color>
+    <color name="home_statusBarColor">#0291c4</color>
+</resources>
